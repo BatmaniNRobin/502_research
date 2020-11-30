@@ -1,0 +1,19 @@
+@relation small
+@attribute A1 NUMERIC
+@attribute A2 NUMERIC
+@attribute A3 NUMERIC
+@attribute A4 NUMERIC
+@attribute A5 NUMERIC
+@attribute A6 NUMERIC
+@attribute A7 NUMERIC
+@attribute class NUMERIC
+@data
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
+2.0,2.0,2.0,2.0,2.0,2.0,2.0,2
+1.0,1.0,1.0,1.0,1.0,1.0,1.0,1
+10.0,10.0,10.0,10.0,10.0,10.0,10.0,1
+10.0,10.0,10.0,10.0,10.0,10.0,10.0,4
+12.0,12.0,12.0,12.0,12.0,12.0,12.0,4
+11.0,11.0,11.0,11.0,11.0,11.0,11.0,5
+110.0,110.0,110.0,110.0,110.0,110.0,110.0,5
+2.0,2.0,2.0,2.0,2.0,2.0,2.0,2
